@@ -1,0 +1,7 @@
+setuptools
+EbookLib
+beautifulsoup4
+requests
+customtkinter
+CTkListbox
+edge-tts
